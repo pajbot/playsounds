@@ -1,0 +1,2 @@
+!add playsound mylifeispotato https://pajbot.github.io/playsounds/files/2021-05-30/mylifeispotato.ogg
+!add playsound previouslyonlost https://pajbot.github.io/playsounds/files/2021-05-30/previouslyonlost.ogg
