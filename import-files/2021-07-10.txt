@@ -1,0 +1,1 @@
+!add playsound dinkdonk https://pajbot.github.io/playsounds/files/2021-07-10/dinkdonk.ogg
