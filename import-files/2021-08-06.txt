@@ -1,2 +1,3 @@
+!add playsound cheese https://pajbot.github.io/playsounds/files/2021-08-06/cheese.ogg
 !add playsound donotcum https://pajbot.github.io/playsounds/files/2021-08-06/donotcum.ogg
 !add playsound imgonnacum https://pajbot.github.io/playsounds/files/2021-08-06/imgonnacum.ogg
